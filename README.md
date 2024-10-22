@@ -1,4 +1,4 @@
-# Hello, digital wanderer, I'm Fernando Mello. :)
+## Hello, digital wanderer. :)
 
 I'm studying data analysis and data science.
 
